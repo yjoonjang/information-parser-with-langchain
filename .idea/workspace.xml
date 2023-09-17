@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a329d185-516f-4671-bfaa-8bbf209db4c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
-    </list>
+    <list default="true" id="a329d185-516f-4671-bfaa-8bbf209db4c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,32 +35,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="ice_breaker_runner" type="PythonConfigurationType" factoryName="Python">
-      <module name="ice_breaker" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="OPENAI_API_KEY" value="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" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/ice_breaker-RgORre_R/bin/python" />
-      <option name="SDK_NAME" value="Pipenv (ice_breaker)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ice_breaker.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -77,7 +48,7 @@
       <updated>1694415961271</updated>
       <workItem from="1694415964142" duration="4651000" />
       <workItem from="1694459354972" duration="2392000" />
-      <workItem from="1694970496877" duration="73000" />
+      <workItem from="1694970496877" duration="457000" />
     </task>
     <servers />
   </component>
