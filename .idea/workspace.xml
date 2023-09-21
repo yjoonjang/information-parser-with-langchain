@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a329d185-516f-4671-bfaa-8bbf209db4c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/third_parties/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_parties/linkedin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ice_breaker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ice_breaker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/linkedin_lookup_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ice_breaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
     </list>
@@ -59,9 +58,10 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="OPENAI_API_KEY" value="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" />
+        <env name="OPENAI_API_KEY" value="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" />
         <env name="PROXYCURL_API_KEY" value="yGTU-yZ6GHQN5YLRX5D3PQ" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SERPAPI_API_KEY" value="2fe55f55255342f343c02ce389eee23b29983a67ca0dbdb2fdaaa56f12224dce" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/ice_breaker-RgORre_R/bin/python" />
       <option name="SDK_NAME" value="Pipenv (ice_breaker)" />
@@ -96,7 +96,7 @@
       <workItem from="1694970496877" duration="770000" />
       <workItem from="1694971277987" duration="2003000" />
       <workItem from="1695016266276" duration="3489000" />
-      <workItem from="1695273307617" duration="1525000" />
+      <workItem from="1695273307617" duration="5400000" />
     </task>
     <servers />
   </component>
@@ -104,7 +104,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ice_breaker$ice_breaker_runner.coverage" NAME="ice_breaker_runner Coverage Results" MODIFIED="1695274670258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_breaker$ice_breaker_runner.coverage" NAME="ice_breaker_runner Coverage Results" MODIFIED="1695281939982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_breaker$ice_breaker.coverage" NAME="ice_breaker Coverage Results" MODIFIED="1694449383170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
